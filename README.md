@@ -1,0 +1,2 @@
+# SRS-of-Online-Salon-Management-System
+This document is to describe all the software requirement specification (SRS) for the online salon management. The system aims to help the customer to make an appointment online through the internet and track their records through it. With the increase in the number of customer visiting, it has become difficult to manage the appointment system manually. The purpose of this project is to solve these complications by creating custom-built database software to manage the salon management system.
